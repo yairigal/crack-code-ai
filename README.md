@@ -4,6 +4,10 @@ Trying to find the best AI to be the best at the Crack Code game using genetic a
 ### How to run
 Using python 3.7:
 ```bash
+pip install -r requirments.txt
+```
+
+```bash
 python genetic_algorithm.py
 ```
 to train the genetic algorithm from the last checkpoint (each checkpoint is at 10 generations).
